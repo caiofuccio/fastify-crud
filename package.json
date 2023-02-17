@@ -26,6 +26,8 @@
     },
     "dependencies": {
         "@types/node": "^18.13.0",
-        "fastify": "^4.13.0"
+        "fastify": "^4.13.0",
+        "knex": "^2.4.2",
+        "sqlite3": "^5.1.4"
     }
 }
